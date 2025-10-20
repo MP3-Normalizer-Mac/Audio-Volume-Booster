@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/audiovolumebooster">  
+<a href="https://astridduday3108.github.io/.github/audiovolumebooster">  
 <img src="https://img.shields.io/badge/Get_Audio_Volume_Booster-darkgreen?style=for-the-badge&logo=apple" alt="Get Audio Volume Booster">  
 </a>  
 </div>  
